@@ -1,0 +1,108 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603996780081,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.801b24de50a804739006.js",
+        "/manifest.webmanifest",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.ce6ece65955aec079856.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/addMulticolor.svg",
+        "/assets/icons/alertaCuadrado.svg",
+        "/assets/icons/alertaPink.svg",
+        "/assets/icons/alertaRomboYellow.svg",
+        "/assets/icons/alertaYellow.svg",
+        "/assets/icons/botonConfig.svg",
+        "/assets/icons/chartLienzo.svg",
+        "/assets/icons/chartPink.svg",
+        "/assets/icons/closeBlackBlue.svg",
+        "/assets/icons/closeCartelAqua.svg",
+        "/assets/icons/closeCartelPink.svg",
+        "/assets/icons/closePink.svg",
+        "/assets/icons/dolar.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/presupuesto.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/addMulticolor.svg": "b96ac536d0b92a23fe54ee1367238797715943da",
+    "/assets/icons/alertaCuadrado.svg": "3ae4150fe962486c7202c55ce47bb6a7f06a7c27",
+    "/assets/icons/alertaPink.svg": "a3eb5118c5f7899ff5966847a055931f83f7d5ca",
+    "/assets/icons/alertaRomboYellow.svg": "f9e980457c65f2690580cdd047da5bd86c792a47",
+    "/assets/icons/alertaYellow.svg": "87c52271d39ef4b487857575e59d4d060ac00b84",
+    "/assets/icons/botonConfig.svg": "b3b80312f722b11b8b14a81b8990e6a695714031",
+    "/assets/icons/chartLienzo.svg": "76d8445fd4e943658c673ae10efde9a97fa19fa2",
+    "/assets/icons/chartPink.svg": "c502c7f2312f18406a28f192385f2a033fb69505",
+    "/assets/icons/closeBlackBlue.svg": "56d5f767a18b1bd8c7b4cbcb125550d73b8a2d1d",
+    "/assets/icons/closeCartelAqua.svg": "6f6058f82445d4ef13e5863c9aaaea9223443f52",
+    "/assets/icons/closeCartelPink.svg": "530f3501a70b422d02407054305ed971560d8c0f",
+    "/assets/icons/closePink.svg": "c73719c3be40283be45f9eadda4317424eaadff8",
+    "/assets/icons/dolar.svg": "073ae121bf8816ce22efbe031a688c265768f7c9",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/presupuesto.svg": "8b9c946521882df61274fc4b651f59feda276217",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "97fe32a5a07f64d079bb1fa9b324977c5ba03fe2",
+    "/main.801b24de50a804739006.js": "11f4e2c6c0ebd9066648c6d418d66192a1cda4bc",
+    "/manifest.webmanifest": "f858f0a772f61b93a7bb30edfdb6f788af9deded",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.ce6ece65955aec079856.css": "540fbef53c7ffd08061aa8f32a9f49641af1e2ff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

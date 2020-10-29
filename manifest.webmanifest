@@ -1,0 +1,17 @@
+{
+  "name": "finanzas",
+  "short_name": "finanzas",
+  "theme_color": "whitesmoke",
+  "background_color": "#44C4A1",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "assets/icons/presupuesto.svg",
+      "sizes": "any",
+      "type": "image/svg",
+      "purpose": "maskable any"
+    }
+  ]
+}
